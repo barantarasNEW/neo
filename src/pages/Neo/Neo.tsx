@@ -1,3 +1,4 @@
+import React from "react";
 import { useEffect, useState } from "react";
 import { Card } from "react-bootstrap";
 import Spinner from "../../components/Spinner/Spinner";
